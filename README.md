@@ -36,28 +36,6 @@
 
 ###
 
-<h2 align="left">Contact:</h2>
-
-###
-
-<p align="left">You can reach out to me through LinkedIn (Maria Hadjichristoforou) and Gmail (mariahadj2004@gmail.com) and can also check out my account on HackerRank</p>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/mhadjichristoforou/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:mariahadj2004@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/mariahadj2004" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  </a>
-</div>
-
-###
-
 <h2 align="left">Interests</h2>
 
 <p align="left">
@@ -73,6 +51,28 @@ My current technical interests include:
 <p align="left">
 I enjoy exploring how theory translates into practical implementations, especially in areas that combine mathematics, creativity, and system design.
 </p>
+
+###
+
+###
+
+<h2 align="left">Contact</h2>
+
+<p align="left">
+Feel free to reach out or connect with me through the platforms below:
+</p>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/mhadjichristoforou/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="mailto:mariahadj2004@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/mariahadj2004" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo" />
+  </a>
+</div>
 
 ###
 
