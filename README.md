@@ -58,23 +58,21 @@
 
 ###
 
-<h2 align="left">Fun Facts:</h2>
+<h2 align="left">Interests</h2>
 
-###
+<p align="left">
+My current technical interests include:
+</p>
 
-<p align="left">~ The coding bug bit me early at 15, and I haven't looked back since!<br><br>~ My username 'foroum' is just a nickname my friends started calling me back in high school and now it's stuck with everyone!<br><br>~ As a kid, I dreamt of crafting a sprawling RPG where you navigate a chilling zombie apocalypse. Maybe one day, I'll bring that world to life! ;)<br><br>~ Lyndsey Scott's work has always been a source of inspiration since childhood.<br><br>~ Frappe or iced tea? My coding fuel depends on the day's flavor.<br><br>~ Watch Dogs and Ex Machina in 2014 sparked my fascination with cybersecurity and AI. Now, I code to explore those very concepts!</p>
+<ul align="left">
+  <li><b>Computer Vision</b> – image processing, perception, and visual understanding</li>
+  <li><b>Game Development</b> – interactive systems, game logic, and real-time graphics</li>
+  <li><b>Machine Learning & Data Science</b> – including topics like sentiment analysis and multi-armed bandit algorithms</li>
+</ul>
 
-###
-
-<h2 align="left">Recently Played:</h2>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/foroum">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=foroum&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+<p align="left">
+I enjoy exploring how theory translates into practical implementations, especially in areas that combine mathematics, creativity, and system design.
+</p>
 
 ###
 
