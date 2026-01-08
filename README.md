@@ -1,65 +1,61 @@
-<h1 align="left">print('Hello, World!')</h1>
+<h1 align="left">print("Hello, World!")</h1>
 
 ###
 
-<h2 align="left">About me:</h2>
+<h2 align="left">About me</h2>
+
+<p align="left">
+Hi! I’m Maria, a Computer Science undergraduate who enjoys building things, breaking them, and then figuring out how to make them better. I’m especially drawn to problems that mix logic, creativity, and experimentation, and I tend to learn best by actually working on projects rather than just reading about them.
+</p>
+
+<p align="left">
+Outside of my university coursework, I spend a lot of time exploring new topics on my own through online courses, tutorials, and small side projects. I like staying curious, trying out new tools, and gradually expanding the areas of computer science I feel confident working in.
+</p>
 
 ###
 
-<p align="left">My name is Maria and I am a Computer Science student. I'm passionate about using technology to solve real-world problems and constantly looking for new challenges and opportunities to learn and grow as a developer. I am committed to continuous learning and growth. I am eager to leverage my skills and passion for computer science to make a meaningful contribution to the field.</p>
+<h2 align="left">Skills & Experience</h2>
 
-###
+<p align="left">
+Through my studies and personal projects, I’ve developed a solid foundation in Java, C/C++, and Python, with experience applying core computer science concepts such as algorithms, data structures, and problem-solving in practice.
+</p>
 
-<p align="left">I'm a firm believer in lifelong learning. In addition to my coursework, I'm actively involved in online learning platforms like Udacity, Coursera, or even YouTube to expand my knowledge and stay updated on the latest technologies!</p>
+<p align="left">
+My project work has included building small applications and systems, experimenting with game logic and mechanics, and exploring data-driven problems. I’ve worked on tasks such as implementing simple chat-based programs, recreating classic games, and developing programs focused on learning, evaluation, and scoring logic.
+</p>
 
-###
-
-<h2 align="left">Skills:</h2>
-
-###
-
-<p align="left">While I'm still in the early stages of my programming journey, I've gained a strong foundation in languages like Java, C and Python, I am eager to apply my technical and problem-solving skills and knowledge to real-world challenges. I am highly motivated, detail-oriented, and constantly seeking opportunities to expand my skill set and stay up-to-date with the latest advancements in technology.<br><br>Some of my academic projects are creation of a simple chatbot(Java), a program that learned words and generated scores for TOEFL exams (Java) and even recreated games such as Battleship and Three Musketeers. (C/C++)<br><br>I'm currently working on improving my skills in Python and C# which I have been learning outside of University through online courses and videos.</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-</div>
+<p align="left">
+I’m especially interested in writing clear, structured code and gradually taking on more complex projects that challenge both my technical understanding and design choices.
+</p>
 
 ###
 
 <h2 align="left">Interests</h2>
 
 <p align="left">
-My current technical interests include:
+Lately, I’ve been especially interested in areas where theory meets practice, including:
 </p>
 
 <ul align="left">
-  <li><b>Computer Vision</b> – image processing, perception, and visual understanding</li>
-  <li><b>Game Development</b> – interactive systems, game logic, and real-time graphics</li>
-  <li><b>Machine Learning & Data Science</b> – including topics like sentiment analysis and multi-armed bandit algorithms</li>
+  <li><b>Computer Vision</b>:understanding and working with visual data</li>
+  <li><b>Game Development</b>:interactive systems, gameplay logic, and real-time environments</li>
+  <li><b>Machine Learning & Data Science</b>:exploring data-driven approaches, basic modeling concepts, and how learning algorithms are applied in practice</li>
 </ul>
 
 <p align="left">
-I enjoy exploring how theory translates into practical implementations, especially in areas that combine mathematics, creativity, and system design.
+I like exploring these fields through small experiments and coursework, with the goal of slowly building deeper understanding rather than rushing through buzzwords.
 </p>
-
-###
 
 ###
 
 <h2 align="left">Contact</h2>
 
 <p align="left">
-Feel free to reach out or connect with me through the platforms below:
+If you’d like to get in touch -- whether it’s to collaborate on a project, ask about something I’ve worked on, or just say hi -- feel free to reach out through any of the platforms below.
+</p>
+
+<p align="left">
+You can find me on LinkedIn, reach me via email (personal or university), or check out my problem-solving progress on HackerRank.
 </p>
 
 <div align="left">
@@ -69,6 +65,9 @@ Feel free to reach out or connect with me through the platforms below:
   <a href="mailto:mariahadj2004@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
+  <a href="mailto:mhadji03@ucy.ac.cy" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="university email" />
+  </a>
   <a href="https://www.hackerrank.com/profile/mariahadj2004" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo" />
   </a>
@@ -76,6 +75,6 @@ Feel free to reach out or connect with me through the platforms below:
 
 ###
 
-<p align="left">Thank you for stopping by my GitHub page!</p>
-
-###
+<p align="left">
+Thanks for stopping by, feel free to explore my repositories!
+</p>
