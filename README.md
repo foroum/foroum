@@ -37,9 +37,9 @@ Lately, I’ve been especially interested in areas where theory meets practice, 
 </p>
 
 <ul align="left">
-  <li><b>Computer Vision</b>:understanding and working with visual data</li>
-  <li><b>Game Development</b>:interactive systems, gameplay logic, and real-time environments</li>
-  <li><b>Machine Learning & Data Science</b>:exploring data-driven approaches, basic modeling concepts, and how learning algorithms are applied in practice</li>
+  <li><b>Computer Vision:</b> understanding and working with visual data</li>
+  <li><b>Game Development:</b> interactive systems, gameplay logic, and real-time environments</li>
+  <li><b>Machine Learning & Data Science:</b> exploring data-driven approaches, basic modeling concepts, and how learning algorithms are applied in practice</li>
 </ul>
 
 <p align="left">
